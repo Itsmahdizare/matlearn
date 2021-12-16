@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: matlearn
+Version: 1.0.0.0
+Summary: Matlearn is a machine learning library that enables create and train ML models and provides three major parts : preprocessing, training, and evaluation.
+Home-page: https://github.com/itsMahdiZare/matlearn
+Author: Mahdi Zare
+Author-email: itsmahdizare@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/itsMahdiZare/matlearn/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Welcome to my Machine Learning Library. With the help of this package, you can create machine learning models and algorithms.
+Included preprocessing, training, evaluation.
+
+The module supports linear regression to predict the outcome of continuous values. Also, it has logistic regression to predict the outcome of discrete values (classification) in two ways: 1. probability prediction, exact label prediction. All models are trained by the gradient descent algorithm.
+
+When it comes to preprocessing, matlearn provides a variety of algorithms in order to make it easy to train a model.
+
+And after training your model, you can use several different loss functions to validate the power of your model.
+
+This project is completely written by Mahdi Zare and still developing.
+

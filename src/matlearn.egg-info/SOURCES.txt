@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/matlearn/__init__.py
+src/matlearn/_errors.py
+src/matlearn/evaluation.py
+src/matlearn/models.py
+src/matlearn/preprocessing.py
+src/matlearn.egg-info/PKG-INFO
+src/matlearn.egg-info/SOURCES.txt
+src/matlearn.egg-info/dependency_links.txt
+src/matlearn.egg-info/requires.txt
+src/matlearn.egg-info/top_level.txt
